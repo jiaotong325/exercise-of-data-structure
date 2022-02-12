@@ -1,0 +1,4 @@
+water 水
+because 因为
+梨子 apple
+苹果 apple
